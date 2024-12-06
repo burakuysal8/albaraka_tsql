@@ -1,1 +1,34 @@
+1. Create a query that displays the employees’ last names, and indicates the amounts of their
+salaries with asterisks. Each asterisk signifies a thousand dollars. Sort the data in
+descending order of salary. Label the column SALARIES_IN_ASTERISK.  (Employees)
 
+2. Create a query to display the total number of employees and, of that total, the number of
+employees hired in 2009, 2010, 2011, and 2012. Create appropriate column headings. (Employees)
+
+3. Write a query to find the average salary for each department, excluding employees with salaries above a certain threshold.
+(Employees)
+
+4. Write a query to find the department with the highest average salary for employees who have been with 
+the company for more than 2 years. (Employees)
+
+5. Write a query to find the manager hierarchy for a specific employee, showing all levels up to the CEO. (Employees)
+ 
+6. From the following table (Employee,Person) write a query in SQL to return the employee with the fewest number of vacation 
+hours compared to other employees with the same job title. Partitions the employees by job title and apply 
+the first value to each partition independently.
+
+7. From the following tables (Employee,EmployeePayHistory) write a query in SQL to return the highest hourly wage for each job title. Restricts the titles 
+to those that are held by men with a maximum pay rate greater than 40 dollars or women with a maximum pay rate greater than 
+42 dollars.
+
+8. From the following tables (Product,WorkOrder) write a query in  SQL to return any distinct values from first query that aren't also found 
+on the 2nd query.
+
+9. From the following tables (Person,SalesPerson) write a query in SQL to identify all SalesPerson IDs for employees with sales quotas over $250,000. Return first name, 
+last name of the sales persons.
+
+10. From the following tables (Person,PersonPhone) write a query in SQL to identify all people with the first name 'Gail' with area codes other than 415. Return first name, last name, 
+telephone number. Sort the result set in ascending order on lastname.
+
+
+ 
